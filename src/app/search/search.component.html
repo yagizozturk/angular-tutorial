@@ -2,15 +2,15 @@
   <div class="starter-template">
     <h1>Yaani</h1>
     <div>
-      <input type="text" />
+      <input type="text" #searchbox (keyup.enter)="search(searchbox.value)" />
     </div>
   </div>
   <div>
     <ul>
-      <li>news</li>
-      <li>news</li>
-      <li>news</li>
-      <li>news</li>
+      <li><a routerLink="/results/5">food</a></li>
+      <li><a routerLink="/news">news</a></li>
+      <li><a routerLink="/weather">weather</a></li>
+      <li><a routerLink="/movies">movies</a></li>
     </ul>
   </div>
 </main>

@@ -1,0 +1,50 @@
+[  
+   {  
+      "displayText":"tarkan",
+      "query":"tarkan",
+      "searchKind":"WebSearch",
+      "searchURL":"http://localhost:8080/search?q=tarkan"
+   },
+   {  
+      "displayText":"tarkan yolla",
+      "query":"tarkan yolla",
+      "searchKind":"WebSearch",
+      "searchURL":"http://localhost:8080/search?q=tarkan+yolla"
+   },
+   {  
+      "displayText":"tarkan beni çok sev",
+      "query":"tarkan beni çok sev",
+      "searchKind":"WebSearch",
+      "searchURL":"http://localhost:8080/search?q=tarkan+beni+%C3%A7ok+sev"
+   },
+   {  
+      "displayText":"tarkan beni çok sev indir",
+      "query":"tarkan beni çok sev indir",
+      "searchKind":"WebSearch",
+      "searchURL":"http://localhost:8080/search?q=tarkan+beni+%C3%A7ok+sev+indir"
+   },
+   {  
+      "displayText":"tarkan yolla indir",
+      "query":"tarkan yolla indir",
+      "searchKind":"WebSearch",
+      "searchURL":"http://localhost:8080/search?q=tarkan+yolla+indir"
+   },
+   {  
+      "displayText":"tarkim",
+      "query":"tarkim",
+      "searchKind":"WebSearch",
+      "searchURL":"http://localhost:8080/search?q=tarkim"
+   },
+   {  
+      "displayText":"tarkan beni çok sev sözleri",
+      "query":"tarkan beni çok sev sözleri",
+      "searchKind":"WebSearch",
+      "searchURL":"http://localhost:8080/search?q=tarkan+beni+%C3%A7ok+sev+s%C3%B6zleri"
+   },
+   {  
+      "displayText":"tarkan şarkıları dinle",
+      "query":"tarkan şarkıları dinle",
+      "searchKind":"WebSearch",
+      "searchURL":"http://localhost:8080/search?q=tarkan+%C5%9Fark%C4%B1lar%C4%B1+dinle"
+   }
+]
