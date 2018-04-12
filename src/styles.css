@@ -2,3 +2,11 @@
 body {
     padding-top: 5rem;
 }
+
+ol, ul {
+	list-style: none;
+}
+
+.text-primary {
+    color:#1a0dab !important;
+}

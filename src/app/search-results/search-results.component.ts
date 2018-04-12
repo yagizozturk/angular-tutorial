@@ -22,8 +22,7 @@ export class SearchResultsComponent implements OnInit {
     let keyword: string = '';
     keyword = this.route.snapshot.paramMap.get('keyword');
     console.log('search result page --> ' + keyword);
-    this.getJSON().subscribe(data => {
-      
+    this.getJSON().subscribe(data => {      
       this.results = data;
       console.log(this.results);
     });

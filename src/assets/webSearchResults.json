@@ -1,42 +1,52 @@
 [  
       {  
          "name":"Tarkan – 2017",
-         "url":"http://www.tarkan.com/"
+         "url":"http://www.tarkan.com/",
+         "description": "Lorem ipsum dolor sit amet, consectetommodo sem. Cras vel mi dui. Nam erat mi, molestie non tortor non, congue gravida libero. In nec libero ut mauris mattis lobortis ac nec diam."
       },
       {  
          "name":"Tarkan - YouTube",
-         "url":"https://www.youtube.com/user/Tarkan"
+         "url":"https://www.youtube.com/user/Tarkan",
+         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nulla elit, consectetur in velit vitae, ornare i, molestie non tortor non, congue gravida libero. In nec libero ut mauris mattis lobortis ac nec diam."
       },
       {  
          "name":"Tarkan Dinle - Müzikleri & Klipleri | İzlesene.com",
-         "url":"https://www.izlesene.com/muzik/tarkan"
+         "url":"https://www.izlesene.com/muzik/tarkan",
+         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nulla elit, consectetur in veliem. Cras vel mi dui. Nam erat mi, molestie non tortor non, congue gravida libero. In nec libero ut mauris mattis lobortis ac nec diam."
       },
       {  
          "name":"Tarkan - Vikipedi",
-         "url":"https://tr.wikipedia.org/wiki/Tarkan"
+         "url":"https://tr.wikipedia.org/wiki/Tarkan",
+         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.onsectetur in velit vitae, ornare commodo sem. Cras vel mi dui. Nam erat mi, molestie non tortor non, congue gravida libero. In nec libero ut mauris mattis lobortis ac nec diam."
       },
       {  
          "name":"Tarkan Şarkıları Dinle - Zapkolik",
-         "url":"https://www.zapkolik.com/muzik/tarkan"
+         "url":"https://www.zapkolik.com/muzik/tarkan",
+         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nulla elit, consectetur in velit vitae, ornare commodo sem. Cras vel mi dui. Nam erat mi, molestie non tortor non, congue gravida libero. In nec libero ut mauris mattis lobortis ac nec diam."
       },
       {  
          "name":"Tarkan Haberleri | Tarkan Kimdir - Haberler",
-         "url":"https://www.haberler.com/tarkan/"
+         "url":"https://www.haberler.com/tarkan/",
+         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nulla elit, consectetur in velit vitae, ornare commodo sem. Cras vel mi dui. Nam erat mi, molestie non tortor non, congue gravida libero. In nec libero ut mauris matc nec diam."
       },
       {  
          "name":"Tarkan (singer) - Wikipedia",
-         "url":"https://en.wikipedia.org/wiki/Tarkan_(singer)"
+         "url":"https://en.wikipedia.org/wiki/Tarkan_(singer)",
+         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nulla elit, consectetur in vttis lobortis ac nec diam."
       },
       {  
          "name":"Tarkan Haberleri - Son Dakika Güncel Tarkan Gelişmeleri",
-         "url":"http://www.hurriyet.com.tr/haberleri/tarkan"
+         "url":"http://www.hurriyet.com.tr/haberleri/tarkan",
+         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nulla elit, consectetur in velit v. Cras vel mi dui. Nam erat mi, molestie non tortor non, congue gravida libero. In nec libero ut mauris mattis lobortis ac nec diam."
       },
       {  
          "name":"Kiss Kiss (Tarkan) - YouTube",
-         "url":"https://www.youtube.com/watch?v=wN4Rbc6HSPY"
+         "url":"https://www.youtube.com/watch?v=wN4Rbc6HSPY",
+         "description": "Lorem ipsum dolor sit amet, ctetur adipiscing elit. Sed nulla elit, consectetur in velit vitae, ornare commodo sem. Cngue gravida libero. In nec libero ut mauris mattis lobortis ac nec diam."
       },
       {  
          "name":"tarkan - ekşi sözlük - eksisozluk.com",
-         "url":"https://eksisozluk.com/tarkan--32501"
+         "url":"https://eksisozluk.com/tarkan--32501",
+         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nulla elit, consectetur in velit vita Nam erat mi, molestie non tortor non, congue gravida libero. In nec libero ut mauris mattis lobortis ac nec diam."
       }
    ]

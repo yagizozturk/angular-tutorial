@@ -8,6 +8,10 @@ import { HeaderComponent } from './header/header.component';
 import { SearchComponent } from './search/search.component';
 import { SearchResultsComponent } from './search-results/search-results.component';
 import { AppRoutingModule } from './/app-routing.module';
+import { FoodComponent } from './food/food.component';
+import { WeatherComponent } from './weather/weather.component';
+import { NewsComponent } from './news/news.component';
+import { MoviesComponent } from './movies/movies.component';
 
 
 @NgModule({
@@ -15,7 +19,11 @@ import { AppRoutingModule } from './/app-routing.module';
     AppComponent,
     HeaderComponent,
     SearchComponent,
-    SearchResultsComponent
+    SearchResultsComponent,
+    FoodComponent,
+    WeatherComponent,
+    NewsComponent,
+    MoviesComponent
   ],
   imports: [
     NgbModule.forRoot(),

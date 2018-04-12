@@ -1,16 +1,23 @@
 <main role="main" class="container">
   <div class="starter-template">
-    <h1>Yaani</h1>
-    <div>
-      <input type="text" #searchbox (keyup.enter)="search(searchbox.value)" />
+    <div class="mb-4">
+      <img src="../../assets/images/logo.png" width="350" /> 
     </div>
+
+    <div class="input-group mb-3">
+      <input type="text" class="form-control form-control-lg" #searchbox (keyup.enter)="search(searchbox.value)" />      
+      <div class="input-group-append">
+        <button class="btn btn-outline-success" type="button">Search</button>
+      </div>
+    </div>
+
   </div>
-  <div>
-    <ul>
-      <li><a routerLink="/results/5">food</a></li>
-      <li><a routerLink="/news">news</a></li>
-      <li><a routerLink="/weather">weather</a></li>
-      <li><a routerLink="/movies">movies</a></li>
+  <div id="navcontainer">
+    <ul class="text-center">
+      <li class="mx-3 d-inline"><a routerLink="/results/5"><img src="../../assets/fonts/ic_restaurant_black_24px.svg" alt="food"></a></li>
+      <li class="mx-3 d-inline"><a routerLink="/news"><img src="../../assets/fonts/ic_language_black_24px.svg" alt="news"></a></li>
+      <li class="mx-3 d-inline"><a routerLink="/weather"><img src="../../assets/fonts/ic_wb_sunny_black_24px.svg" alt="weather"></a></li>
+      <li class="mx-3 d-inline"><a routerLink="/movies"><img src="../../assets/fonts/ic_local_movies_black_24px.svg" alt="movies"></a></li>
     </ul>
   </div>
 </main>

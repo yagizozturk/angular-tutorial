@@ -1,4 +1,8 @@
 .starter-template {
-    padding: 3rem 1.5rem;
+    padding: 3rem 12rem;
     text-align: center;
+}
+
+#navcontainer ul li img {
+    width: 35px;
 }
