@@ -1,52 +1,425 @@
-[  
-      {  
-         "name":"Tarkan – 2017",
-         "url":"http://www.tarkan.com/",
-         "description": "Lorem ipsum dolor sit amet, consectetommodo sem. Cras vel mi dui. Nam erat mi, molestie non tortor non, congue gravida libero. In nec libero ut mauris mattis lobortis ac nec diam."
-      },
-      {  
-         "name":"Tarkan - YouTube",
-         "url":"https://www.youtube.com/user/Tarkan",
-         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nulla elit, consectetur in velit vitae, ornare i, molestie non tortor non, congue gravida libero. In nec libero ut mauris mattis lobortis ac nec diam."
-      },
-      {  
-         "name":"Tarkan Dinle - Müzikleri & Klipleri | İzlesene.com",
-         "url":"https://www.izlesene.com/muzik/tarkan",
-         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nulla elit, consectetur in veliem. Cras vel mi dui. Nam erat mi, molestie non tortor non, congue gravida libero. In nec libero ut mauris mattis lobortis ac nec diam."
-      },
-      {  
-         "name":"Tarkan - Vikipedi",
-         "url":"https://tr.wikipedia.org/wiki/Tarkan",
-         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.onsectetur in velit vitae, ornare commodo sem. Cras vel mi dui. Nam erat mi, molestie non tortor non, congue gravida libero. In nec libero ut mauris mattis lobortis ac nec diam."
-      },
-      {  
-         "name":"Tarkan Şarkıları Dinle - Zapkolik",
-         "url":"https://www.zapkolik.com/muzik/tarkan",
-         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nulla elit, consectetur in velit vitae, ornare commodo sem. Cras vel mi dui. Nam erat mi, molestie non tortor non, congue gravida libero. In nec libero ut mauris mattis lobortis ac nec diam."
-      },
-      {  
-         "name":"Tarkan Haberleri | Tarkan Kimdir - Haberler",
-         "url":"https://www.haberler.com/tarkan/",
-         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nulla elit, consectetur in velit vitae, ornare commodo sem. Cras vel mi dui. Nam erat mi, molestie non tortor non, congue gravida libero. In nec libero ut mauris matc nec diam."
-      },
-      {  
-         "name":"Tarkan (singer) - Wikipedia",
-         "url":"https://en.wikipedia.org/wiki/Tarkan_(singer)",
-         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nulla elit, consectetur in vttis lobortis ac nec diam."
-      },
-      {  
-         "name":"Tarkan Haberleri - Son Dakika Güncel Tarkan Gelişmeleri",
-         "url":"http://www.hurriyet.com.tr/haberleri/tarkan",
-         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nulla elit, consectetur in velit v. Cras vel mi dui. Nam erat mi, molestie non tortor non, congue gravida libero. In nec libero ut mauris mattis lobortis ac nec diam."
-      },
-      {  
-         "name":"Kiss Kiss (Tarkan) - YouTube",
-         "url":"https://www.youtube.com/watch?v=wN4Rbc6HSPY",
-         "description": "Lorem ipsum dolor sit amet, ctetur adipiscing elit. Sed nulla elit, consectetur in velit vitae, ornare commodo sem. Cngue gravida libero. In nec libero ut mauris mattis lobortis ac nec diam."
-      },
-      {  
-         "name":"tarkan - ekşi sözlük - eksisozluk.com",
-         "url":"https://eksisozluk.com/tarkan--32501",
-         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nulla elit, consectetur in velit vita Nam erat mi, molestie non tortor non, congue gravida libero. In nec libero ut mauris mattis lobortis ac nec diam."
-      }
-   ]
+{  
+    "webPageResults":[  
+       {  
+          "name":"Tarkan – 2017",
+          "url":"http://www.tarkan.com/",
+          "description":"©tarkan 2017 . anasayfa; etkİnlİkler; bİyograf İ; mÜzİk. albÜm; single; cover ..."
+       },
+       {  
+          "name":"Tarkan - YouTube",
+          "url":"https://www.youtube.com/user/Tarkan",
+          "description":"Official TARKAN YouTube Channel. TARKAN resmi YouTube kanalıdır."
+       },
+       {  
+          "name":"Tarkan Dinle - Müzikleri & Klipleri | İzlesene.com",
+          "url":"https://www.izlesene.com/muzik/tarkan",
+          "description":"Tarkan dinlemek; dünden bugüne tüm Tarkan müzikleri, albümleri, video klipleri için tıkla!"
+       },
+       {  
+          "name":"Tarkan - Vikipedi",
+          "url":"https://tr.wikipedia.org/wiki/Tarkan",
+          "description":"İlk yılları. Tarkan Tevetoğlu, 17 Ekim 1972'de Neşe ve Ali Tevetoğlu çiftinin çocuğu olarak Batı Almanya'nın Renanya-Palatina eyaletinde yer alan Alzey kasabasında dünyaya geldi."
+       },
+       {  
+          "name":"Tarkan Şarkıları Dinle - Zapkolik",
+          "url":"https://www.zapkolik.com/muzik/tarkan",
+          "description":"Zapkolik.com kalitesiyle Tarkan tüm şarkıları, albümleri ve son çıkan Tarkan müzikleri dinle, arkadaşlarınla paylaş.."
+       },
+       {  
+          "name":"Tarkan (singer) - Wikipedia",
+          "url":"https://en.wikipedia.org/wiki/Tarkan_(singer)",
+          "description":"Tarkan Tevetoğlu (Turkish pronunciation: [taɾˈkan teveˈtoːɫu]) (born 17 October 1972), known as Tarkan, is a Turkish pop singer. He was born in West Germany and raised in Turkey."
+       },
+       {  
+          "name":"Kiss Kiss (Tarkan) - YouTube",
+          "url":"https://www.youtube.com/watch?v=wN4Rbc6HSPY",
+          "description":"Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song) - Duration: 3:31. shakiraVEVO 1,782,329,569 views"
+       },
+       {  
+          "name":"tarkan - ekşi sözlük - eksisozluk.com",
+          "url":"https://eksisozluk.com/tarkan--32501",
+          "description":"şu anda seyrettiğimle tarihi filmlerin içinde en kalitesiz olanı olduğuna karar verdim, atilla'nın komutasındaki tarkan'ın da içlerinde bulunduğu hunlar \"vandal\"'lara karşı. ayrıca kurt olarak da bildiğimiz sokak köpeğinden daha iyisini bulamamışlar, ne beklersin allahın tarkan filminden? ama yine de o kurt yardımcı oyuncu ..."
+       },
+       {  
+          "name":"Tarkan 10 Yeni 2017 Albümü Dinle - 2018 Şarkıları, 2018 ...",
+          "url":"http://2016albumudinle.blogspot.com/2017/06/tarkan10yeni2017albumudinle.html",
+          "description":"Tarkan 10 Yeni 2017 Albümü Dinle, 2018 Şarkıları, 2018 Albümleri, 2018 Albüm Dinle, Tarkan 10 Yeni 2017 Albümü Dinle"
+       },
+       {  
+          "name":"Tarkan Haberleri - Son Dakika Güncel Tarkan Gelişmeleri",
+          "url":"http://www.hurriyet.com.tr/haberleri/tarkan",
+          "description":"Tarkan haberleri ve güncel son dakika gelişmeleri için tıklayın! Tarkan ile ilgili tüm video, fotoğraf ve haberler Hürriyet'te"
+       }
+    ],
+    "newsResults":[  
+       {  
+          "name":"Tarkan... DÜSSELDORF'TA MEGASTAR ZAMANI!..",
+          "url":"http://www.magazinkolik.com/tarkan-dusseldorfta-megastar-zamani-60625h.htm",
+          "description":"Tüm biletleri satışa çıkar çıkmaz tükenen 7 Nisan konserinin ardından Megastar, yoğun istek üzerine 8 Nisan akşamı da Düsseldorf’ta muhteşem bir konsere imza attı. Konserlerde “10” albümünden “Yolla”, “Beni Çok Sev ...",
+          "providerName":"magazinkolik.com",
+          "datePublished":null
+       },
+       {  
+          "name":"Düsseldorf’ta Tarkan rüzgârı",
+          "url":"http://www.haberturk.com/dusseldorfta-tarkan-ruzgri-magazin-haberleri-1913253-magazin",
+          "description":"Haberturk.com ekibi olarak Türkiye’de ve dünyada yaşanan ve haber değeri taşıyan her türlü gelişmeyi sizlere en hızlı, en objektif ve en doyurucu şekilde ulaştırmak için çalışıyoruz. Yoğun gündem içerisinde sunduğumuz ...",
+          "providerName":"haberturk",
+          "datePublished":null
+       },
+       {  
+          "name":"Tarkan Coldplay sahnesinde",
+          "url":"http://www.aksam.com.tr/magazin/tarkan-coldplay-sahnesinde-c2/haber-724760",
+          "description":"Daha önce David Bowie, Pink Floyd, Coldplay ve Queen gibi dev isimlerin konser verdiği Mitsubishi Electric Halle sahnesine iki gece üst üste çıkan Megastar, parçalarıyla izleyenleri coşturdu. Megastar ın Avrupa maratonunun önümüzdeki ...",
+          "providerName":"Aksam",
+          "datePublished":null
+       },
+       {  
+          "name":"Megastar Tarkan Vadiistanbulda!",
+          "url":"http://www.milliyet.com.tr/megastar-tarkan-vadiistanbulda--pembenar-detay-etkinlik-2645147/",
+          "description":"Şehrin yıldızı ve yaşam merkezi Vadistanbul AVM, Türk pop müziğinin Megastar’ını ağırlıyor. Tarkan, 12 Mayıs’ta Vadistanbul’da festival alanında vereceği konserle sevenleriyle buluşacak. Şehrin yıldızı ve yaşam merkezi ...",
+          "providerName":"Milliyet",
+          "datePublished":null
+       },
+       {  
+          "name":"Tarkan İstanbul'da 10 bin kişiye konser verecek",
+          "url":"http://www.gercekgundem.com/kultur-sanat/9511/tarkan-istanbulda-10-bin-kisiye-konser-verecek",
+          "description":"Şehrin yaşam merkezi Vadistanbul AVM, Türk pop müziğinin Megastar’ı Tarkan'ı ağırlıyor. Tarkan, 12 Mayıs’ta Vadistanbul’da festival alanında vereceği konserle sevenleriyle buluşacak. 7 yıl aranın ardından çıkardığı “10 ...",
+          "providerName":"Gerçek Gündem",
+          "datePublished":null
+       }
+    ],
+    "imageResults":[  
+       {  
+          "name":"tarkan - Tarkan Photo (2798500) - Fanpop",
+          "contentURL":"http://images2.fanpop.com/images/photos/2700000/tarkan-tarkan-2798500-1763-1629.jpg",
+          "width":1763,
+          "height":1629,
+          "thumbnailUrl":"https://tse1.mm.bing.net/th?id=OIP.SPBztnNYOmU0whbroS2X7wHaG1&pid=Api",
+          "base64Value":null,
+          "thumbnailWidth":474,
+          "thumbnailHeight":437,
+          "imageId":null
+       },
+       {  
+          "name":"Tarkan - Yolla - YouTube",
+          "contentURL":"https://i.ytimg.com/vi/U66ixhdbxEI/maxresdefault.jpg",
+          "width":1280,
+          "height":720,
+          "thumbnailUrl":"https://tse1.mm.bing.net/th?id=OIP.QRFS-jokCLqK5IwM22qNAAHaEK&pid=Api",
+          "base64Value":null,
+          "thumbnailWidth":474,
+          "thumbnailHeight":266,
+          "imageId":null
+       },
+       {  
+          "name":"TARKAN “AHDE VEFA”",
+          "contentURL":"http://www.limebodrum.com/wp-content/uploads/2016/03/1457005164_TARKAN_AHDE_VEFA.jpg",
+          "width":5000,
+          "height":5000,
+          "thumbnailUrl":"https://tse1.mm.bing.net/th?id=OIP.rdfBJSyWFHlMD5ZRk_-kSwHaHa&pid=Api",
+          "base64Value":null,
+          "thumbnailWidth":474,
+          "thumbnailHeight":474,
+          "imageId":null
+       },
+       {  
+          "name":"Tarkan En Güzel Şarkılar - Karışık Seçmece Parçalar - YouTube",
+          "contentURL":"https://i.ytimg.com/vi/jEtcSy8G4cE/maxresdefault.jpg",
+          "width":2000,
+          "height":1999,
+          "thumbnailUrl":"https://tse1.mm.bing.net/th?id=OIP.0ijg3InWgQ4BT1MFwmDGtwHaHZ&pid=Api",
+          "base64Value":null,
+          "thumbnailWidth":474,
+          "thumbnailHeight":473,
+          "imageId":null
+       },
+       {  
+          "name":"Tarkan Kimdir – Kaç Yaşında – Boyu | Sanal Sözlük",
+          "contentURL":"http://www.sanalsozluk.net/wp-content/uploads/2015/06/Tarkan-%C4%B0nstagram.jpg",
+          "width":869,
+          "height":1190,
+          "thumbnailUrl":"https://tse1.mm.bing.net/th?id=OIP.31ybXmt1MOnQxJYy5PULMwHaKJ&pid=Api",
+          "base64Value":null,
+          "thumbnailWidth":474,
+          "thumbnailHeight":649,
+          "imageId":null
+       },
+       {  
+          "name":"YAZARIMIZ FIRAT BARAN'DAN BİR ''TARKAN'' DEĞERLENDİRMESİ ...",
+          "contentURL":"http://3.bp.blogspot.com/_Yo1qnPtqdzo/TJs9VvgjctI/AAAAAAAACbE/E45OMQJZuEI/s1600/tarkan3.jpg",
+          "width":1418,
+          "height":1419,
+          "thumbnailUrl":"https://tse1.mm.bing.net/th?id=OIP.xpCi_6BHZodjbf7vf6o4wgHaHa&pid=Api",
+          "base64Value":null,
+          "thumbnailWidth":474,
+          "thumbnailHeight":474,
+          "imageId":null
+       },
+       {  
+          "name":"Best Tarkan Blog",
+          "contentURL":"http://img.blogcu.com/uploads/tarkan456_tarkan2%5B1%5D.jpg",
+          "width":1024,
+          "height":768,
+          "thumbnailUrl":"https://tse1.mm.bing.net/th?id=OIP.jtHhYlQBaNnUCfuyOgDNEwHaFj&pid=Api",
+          "base64Value":null,
+          "thumbnailWidth":474,
+          "thumbnailHeight":355,
+          "imageId":null
+       },
+       {  
+          "name":"Chanteurs and Dios on Pinterest",
+          "contentURL":"https://s-media-cache-ak0.pinimg.com/564x/d9/2e/83/d92e833aab30c76a1ac3836f2a75c75e.jpg",
+          "width":564,
+          "height":821,
+          "thumbnailUrl":"https://tse1.mm.bing.net/th?id=OIP.s7H3z1A50CqmrojplbkliwHaKx&pid=Api",
+          "base64Value":null,
+          "thumbnailWidth":474,
+          "thumbnailHeight":689,
+          "imageId":null
+       },
+       {  
+          "name":"Tarkan on Apple Music",
+          "contentURL":"https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/99/4e/37/994e37cf-4041-1436-4a5b-6a197c3dd9a6/source/1200x630sr.jpg",
+          "width":1200,
+          "height":630,
+          "thumbnailUrl":"https://tse1.mm.bing.net/th?id=OIP.gCgZ7uIJQc8JsruzcjpJKQHaD4&pid=Api",
+          "base64Value":null,
+          "thumbnailWidth":474,
+          "thumbnailHeight":248,
+          "imageId":null
+       },
+       {  
+          "name":"Tarkan - Mainz Concert Tickets - Tarkan Messepark Tickets ...",
+          "contentURL":"https://s3.amazonaws.com/bit-photos/large/5142235.jpeg",
+          "width":720,
+          "height":720,
+          "thumbnailUrl":"https://tse1.mm.bing.net/th?id=OIP.9ivUjxb4eT6GFjxPU0s2eQHaHa&pid=Api",
+          "base64Value":null,
+          "thumbnailWidth":474,
+          "thumbnailHeight":474,
+          "imageId":null
+       },
+       {  
+          "name":"Tarkan Deluxe: Tarkan in Demand Again?",
+          "contentURL":"https://4.bp.blogspot.com/-6oOC6LArkFs/V6mfYse14DI/AAAAAAAAW9c/d72V3nyol1wotPJU53ftsWPQ5MFP5b2zQCLcB/s1600/20160808_232723.jpg",
+          "width":1309,
+          "height":1600,
+          "thumbnailUrl":"https://tse1.mm.bing.net/th?id=OIP.B3vr7nuw6ZRYDUHVpXNuWQHaJD&pid=Api",
+          "base64Value":null,
+          "thumbnailWidth":474,
+          "thumbnailHeight":579,
+          "imageId":null
+       },
+       {  
+          "name":"Tarkan - Yemin Ettim | Yeni Türkçe Şarkılar 2018",
+          "contentURL":"http://2.bp.blogspot.com/-TogDyPfDkWk/VIazy5UzYSI/AAAAAAAAAr8/p49BZSGDR8g/s1600/tarkan115.jpg",
+          "width":1600,
+          "height":1200,
+          "thumbnailUrl":"https://tse1.mm.bing.net/th?id=OIP.sFU6t3kwrJi-tZ25UzT3FwHaFj&pid=Api",
+          "base64Value":null,
+          "thumbnailWidth":474,
+          "thumbnailHeight":355,
+          "imageId":null
+       },
+       {  
+          "name":"tarkan resimleri: Tarkan Resimleri 2014",
+          "contentURL":"http://3.bp.blogspot.com/-L5wtjfVn6fs/UrV3HnHJGeI/AAAAAAAAAHI/RoHo6dxURY8/s1600/tarkan+komik+foto%C4%9Fraf%C4%B1+6.jpg",
+          "width":660,
+          "height":500,
+          "thumbnailUrl":"https://tse1.mm.bing.net/th?id=OIP.QsDdVTF4lf--UmVTDJlH2wHaFn&pid=Api",
+          "base64Value":null,
+          "thumbnailWidth":474,
+          "thumbnailHeight":359,
+          "imageId":null
+       },
+       {  
+          "name":"Hatice Gökçe",
+          "contentURL":"http://www.haticegokce.com/images/4Referanslar/T-0896sb.jpg",
+          "width":2896,
+          "height":4344,
+          "thumbnailUrl":"https://tse1.mm.bing.net/th?id=OIP.GZzNEI3xvbKzuuBttBcfLgHaLH&pid=Api",
+          "base64Value":null,
+          "thumbnailWidth":474,
+          "thumbnailHeight":711,
+          "imageId":null
+       },
+       {  
+          "name":"tarkan resimleri: Tarkan Resimleri 2014",
+          "contentURL":"http://4.bp.blogspot.com/-fRztKhj1LHA/UrV23nbQvcI/AAAAAAAAAC0/Jrn_rHDkdrg/s1600/tarkan+2014+full+hd+0.jpg",
+          "width":740,
+          "height":555,
+          "thumbnailUrl":"https://tse1.mm.bing.net/th?id=OIP.mKatVvaEE8sSnQmLgFEiYQHaFj&pid=Api",
+          "base64Value":null,
+          "thumbnailWidth":474,
+          "thumbnailHeight":355,
+          "imageId":null
+       },
+       {  
+          "name":"Tarkan - Tarkan Wallpaper (942744) - Fanpop",
+          "contentURL":"http://images1.fanpop.com/images/image_uploads/Tarkan-tarkan-942744_1024_768.jpg",
+          "width":1024,
+          "height":768,
+          "thumbnailUrl":"https://tse1.mm.bing.net/th?id=OIP.XHutfSBZKfZ4vhTdc10ruAHaFj&pid=Api",
+          "base64Value":null,
+          "thumbnailWidth":474,
+          "thumbnailHeight":355,
+          "imageId":null
+       },
+       {  
+          "name":"tarkan resimleri: Tarkan Resimleri 2014",
+          "contentURL":"http://1.bp.blogspot.com/-HXsxR7raLQY/UrV3GoYEBAI/AAAAAAAAAGw/uh9wP84u01g/s1600/tarkan+images+8.jpg",
+          "width":445,
+          "height":521,
+          "thumbnailUrl":"https://tse1.mm.bing.net/th?id=OIP.jJY2b07pCCxhEhjXn9Ml5AHaIq&pid=Api",
+          "base64Value":null,
+          "thumbnailWidth":474,
+          "thumbnailHeight":554,
+          "imageId":null
+       },
+       {  
+          "name":"ℂ⋆Tarkan | Şımarık ''Orijinal Versiyon'' (Best in YouTube ...",
+          "contentURL":"https://i.ytimg.com/vi/5zLZ6Mc0VL0/maxresdefault.jpg",
+          "width":1920,
+          "height":1080,
+          "thumbnailUrl":"https://tse1.mm.bing.net/th?id=OIP.eSVHjMSud7gR3dTLR3EKuAHaEK&pid=Api",
+          "base64Value":null,
+          "thumbnailWidth":474,
+          "thumbnailHeight":266,
+          "imageId":null
+       },
+       {  
+          "name":"Tarkan",
+          "contentURL":"http://tarkanahdevefa.com/img/tarkan5.jpg",
+          "width":2835,
+          "height":1418,
+          "thumbnailUrl":"https://tse1.mm.bing.net/th?id=OIP.Ky9zmb8pg1rLlo5GjlLTrgHaDt&pid=Api",
+          "base64Value":null,
+          "thumbnailWidth":474,
+          "thumbnailHeight":237,
+          "imageId":null
+       },
+       {  
+          "name":"Tarkan to be guest of 2017 Formula 1 Azerbaijan Grand Prix",
+          "contentURL":"https://www.azernews.az/media/2017/04/21/tarkan.jpg",
+          "width":880,
+          "height":487,
+          "thumbnailUrl":"https://tse1.mm.bing.net/th?id=OIP.oMsbwtg58IEUTuAQyGmqKAHaEG&pid=Api",
+          "base64Value":null,
+          "thumbnailWidth":474,
+          "thumbnailHeight":262,
+          "imageId":null
+       }
+    ],
+    "videoResults":[  
+       {  
+          "name":"TARKAN - Kayıp",
+          "contentURL":"https://www.youtube.com/watch?v=OUWF_ZVll94",
+          "width":480,
+          "height":360,
+          "thumbnailUrl":"https://tse3.mm.bing.net/th?id=OVP.SE-CS4GMUtUB7VG7LrZbrgJYD7&pid=Api",
+          "base64Value":null,
+          "thumbnailWidth":600,
+          "thumbnailHeight":251,
+          "videoId":null
+       },
+       {  
+          "name":"TARKAN - Dudu",
+          "contentURL":"https://www.youtube.com/watch?v=SCZgGVqVsbY",
+          "width":1280,
+          "height":720,
+          "thumbnailUrl":"https://tse4.mm.bing.net/th?id=OVP.xczYz0turGPm63QME0WcbgHqFo&pid=Api",
+          "base64Value":null,
+          "thumbnailWidth":490,
+          "thumbnailHeight":360,
+          "videoId":null
+       },
+       {  
+          "name":"TARKAN - Sorma Kalbim",
+          "contentURL":"https://www.youtube.com/watch?v=FQRCrKmN-dA",
+          "width":480,
+          "height":360,
+          "thumbnailUrl":"https://tse4.mm.bing.net/th?id=OVP.CPLznyFHabu7evXY9HFYZgG8Fo&pid=Api",
+          "base64Value":null,
+          "thumbnailWidth":444,
+          "thumbnailHeight":360,
+          "videoId":null
+       },
+       {  
+          "name":"TARKAN - Vay Anam Vay",
+          "contentURL":"https://www.youtube.com/watch?v=tYinX1iLLgM",
+          "width":1280,
+          "height":720,
+          "thumbnailUrl":"https://tse2.mm.bing.net/th?id=OVP.ZC93vRw2tW5ztSN_SyAORwJYFR&pid=Api",
+          "base64Value":null,
+          "thumbnailWidth":600,
+          "thumbnailHeight":337,
+          "videoId":null
+       },
+       {  
+          "name":"Tarkan - Yolla",
+          "contentURL":"https://www.youtube.com/watch?v=U66ixhdbxEI",
+          "width":1280,
+          "height":720,
+          "thumbnailUrl":"https://tse4.mm.bing.net/th?id=OVP.tNqgVHkRVossPMCG7WChwgJYFE&pid=Api",
+          "base64Value":null,
+          "thumbnailWidth":600,
+          "thumbnailHeight":324,
+          "videoId":null
+       },
+       {  
+          "name":"Tarkan-Basina Bela Olurum",
+          "contentURL":"https://www.youtube.com/watch?v=ZYx0ZSWJbjo",
+          "width":1280,
+          "height":720,
+          "thumbnailUrl":"https://tse4.mm.bing.net/th?id=OVP.deP6X5lue-Y9-3oEJYL-_gIIEk&pid=Api",
+          "base64Value":null,
+          "thumbnailWidth":520,
+          "thumbnailHeight":292,
+          "videoId":null
+       },
+       {  
+          "name":"TARKAN - Arada Bir",
+          "contentURL":"https://www.youtube.com/watch?v=JbOrMOTZUtM",
+          "width":480,
+          "height":360,
+          "thumbnailUrl":"https://tse2.mm.bing.net/th?id=OVP.WmB4lwcusUUnFu23qEeFVAHqE8&pid=Api",
+          "base64Value":null,
+          "thumbnailWidth":490,
+          "thumbnailHeight":316,
+          "videoId":null
+       },
+       {  
+          "name":"TARKAN - Öp",
+          "contentURL":"https://www.youtube.com/watch?v=QNoC_mVojhc",
+          "width":480,
+          "height":360,
+          "thumbnailUrl":"https://tse3.mm.bing.net/th?id=OVP.FwBtPQatGY-pyiyqg8DZVAJYFR&pid=Api",
+          "base64Value":null,
+          "thumbnailWidth":600,
+          "thumbnailHeight":337,
+          "videoId":null
+       },
+       {  
+          "name":"TARKAN - Gülümse Kaderine",
+          "contentURL":"https://www.youtube.com/watch?v=Skus894Lh_c",
+          "width":480,
+          "height":360,
+          "thumbnailUrl":"https://tse3.mm.bing.net/th?id=OVP.6Vi1HYQegnayquRqMAUK0QJYFR&pid=Api",
+          "base64Value":null,
+          "thumbnailWidth":600,
+          "thumbnailHeight":337,
+          "videoId":null
+       },
+       {  
+          "name":"TARKAN - İkimizin Yerine",
+          "contentURL":"https://www.youtube.com/watch?v=HBnvzKHb8us",
+          "width":1280,
+          "height":720,
+          "thumbnailUrl":"https://tse4.mm.bing.net/th?id=OVP.a2xRDuodF_fAowfP9-JeXAHmFo&pid=Api",
+          "base64Value":null,
+          "thumbnailWidth":486,
+          "thumbnailHeight":360,
+          "videoId":null
+       }
+    ]
+ }
